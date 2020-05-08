@@ -1,0 +1,16 @@
+name: env-name-here-does-not-matter
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python =3.8
+  - pip
+  - mmseqs2
+  - pal2nal
+  - muscle
+  - paml
+  - blast
+  - diamond
+  - prodigal
+  - numpy
