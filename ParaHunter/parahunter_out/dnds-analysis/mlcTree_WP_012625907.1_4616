@@ -1,0 +1,910 @@
+     14    798
+
+WP_012625907.1_4616             ATG ATA CGA CAA TCT TAC GAT ACC GAT CTG ACA GAT GAA CAG TGG GAA CTG CTC AAA CCC TTA ATC CCT CCG CCC CGC CCC GGT GGC CGT CCT CGG TGC CTC GAC ATC CGT GAA GTC TTG AAT GGG ATA TTT TAC TTG CTC AGC AAT GGG ATT AAA TGG CGG TCG ATG CCC CAT GAT TTC CCC AAC TGG CAC AGC ATT TAC ACC TAC TTT CGA GCG TGG GAA GCG GAT GGG ACG TGG AAA CGG CTG AAT CAG ACA TTA CGC ACC GAA GTG AGA GTG GCA GCG GGA CGC AAG GCT CAA CCA AGT GCC GGG AGT GTA GAC AGC CAA TCG GTC AAA ACT GCG AGG GGA GGG GAG GAC ATC GGC TTT GAT GGC GGC AAG AAA GTC AAG GGA CGC AAG CGC ACC ATC CTG GTC GAT ACA ATG GGA CTG TTA CTC GGT GTG TGT GTC CAC AGT GCC AAA CGC TCT GAC CAT CAG GGA ATG GTT TTA CTT GCC ACC TTT TGG GCT GCC TTT TGG TCT TGT CTC AAG GTG ATT TGG GTA GAC AGC ACC TTT GCA GGA AAA AAC TTT ATC GCC ACC ATC GCT CAG CAC TTT GGC TGG TCG CTC GAA CAT CTC AAA CCC ACA AAG ACT GAG CCG GGT TTC CAG GTC ATT CCG AAA CGA TGG GTG GTG GAA CGA ACC TAT GCC TGG TTT GGG CAT TAT CGC CGC TTG AGT AAA GAC TAT GAA TTT TTG ACC ACG ACA AGT GAA ATG ATG CTC TTT GCC GCT ATG GTA CAT TTG ATG GTT CGT CGA TTA AAA CCC AAA AAT CAA GCT AGA 
+WP_012625907.1_1834             ATG ATA CGA CAA TCT TAC GAT ACC GAT CTG ACA GAT GAA CAG TGG GAA CTG CTC AAA CCC TTA ATC CCT CCG CCC CGC CCC GGT GGC CGT CCT CGG TGC CTC GAC ATC CGT GAA GTC TTG AAT GGG ATA TTT TAC TTG CTC AGC AAT GGG ATT AAA TGG CGG TCG ATG CCC CAT GAT TTC CCC AAC TGG CAC AGC ATT TAC ACC TAC TTT CGA GCG TGG GAA GCG GAT GGG ACG TGG AAA CGG CTG AAT CAG ACA TTA CGC ACC GAA GTG AGA GTG GCA GCG GGA CGC AAG GCT CAA CCA AGT GCC GGG AGT GTA GAC AGC CAA TCG GTC AAA ACT GCG AGG GGA GGG GAG GAC ATC GGC TTT GAT GGC GGC AAG AAA GTC AAG GGA CGC AAG CGC ACC ATC CTG GTC GAT ACA ATG GGA CTG TTA CTC GGT GTG TGT GTC CAC AGT GCC AAA CGC TCT GAC CAT CAG GGA ATG GTT TTA CTT GCC ACC TTT TGG GCT GCC TTT TGG TCT TGT CTC AAG GTG ATT TGG GTA GAC AGC ACC TTT GCA GGA AAA AAC TTT ATC GCC ACC ATC GCT CAG CAC TTT GGC TGG TCG CTC GAA CAT CTC AAA CCC ACA AAG ACT GAG CCG GGT TTC CAG GTC ATT CCG AAA CGA TGG GTG GTG GAA CGA ACC TAT GCC TGG TTT GGG CAT TAT CGC CGC TTG AGT AAA GAC TAT GAA TTT TTG ACC ACG ACA AGT GAA ATG ATG CTC TTT GCC GCT ATG GTA CAT TTG ATG GTT CGT CGA TTA AAA CCC AAA AAT CAA GCT AGA 
+WP_012625907.1_1675             ATG ATA CGA CAA TCT TAC GAT ACC GAT CTG ACA GAT GAA CAG TGG GAA CTG CTC AAA CCC TTA ATC CCT CCG CCC CGC CCC GGT GGC CGT CCT CGG TGC CTC GAC ATC CGT GAA GTC TTG AAT GGG ATA TTT TAC TTG CTC AGC AAT GGG ATT AAA TGG CGG TCG ATG CCC CAT GAT TTC CCC AAC TGG CAC AGC ATT TAC ACC TAC TTT CGA GCG TGG GAA GCG GAT GGG ACG TGG AAA CGG CTG AAT CAG ACA TTA CGC ACC GAA GTG AGA GTG GCA GCG GGA CGC AAG GCT CAA CCA AGT GCC GGG AGT GTA GAC AGC CAA TCG GTC AAA ACT GCG AGG GGA GGG GAG GAC ATC GGC TTT GAT GGC GGC AAG AAA GTC AAG GGA CGC AAG CGC ACC ATC CTG GTC GAT ACA ATG GGA CTG TTA CTC GGT GTG TGT GTC CAC AGT GCC AAA CGC TCT GAC CAT CAG GGA ATG GTT TTA CTT GCC ACC TTT TGG GCT GCC TTT TGG TCT TGT CTC AAG GTG ATT TGG GTA GAC AGC ACC TTT GCA GGA AAA AAC TTT ATC GCC ACC ATC GCT CAG CAC TTT GGC TGG TCG CTC GAA CAT CTC AAA CCC ACA AAG ACT GAG CCG GGT TTC CAG GTC ATT CCG AAA CGA TGG GTG GTG GAA CGA ACC TAT GCC TGG TTT GGG CAT TAT CGC CGC TTG AGT AAA GAC TAT GAA TTT TTG ACC ACG ACA AGT GAA ATG ATG CTC TTT GCC GCT ATG GTA CAT TTG ATG GTT CGT CGA TTA AAA CCC AAA AAT CAA GCT AGA 
+WP_012625907.1_208              ATG ATA CGA CAA TCT TAC GAT ACC GAT CTG ACA GAT GAA CAG TGG GAA CTG CTC AAA CCC TTA ATC CCT CCG CCC CGC CCC GGT GGC CGT CCT CGG TGC CTC GAC ATC CGT GAA GTC TTG AAT GGG ATA TTT TAC TTG CTC AGC AAT GGG ATT AAA TGG CGG TCG ATG CCC CAT GAT TTC CCC AAC TGG CAC AGC ATT TAC ACC TAC TTT CGA GCG TGG GAA GCG GAT GGG ACG TGG AAA CGG CTG AAT CAG ACA TTA CGC ACC GAA GTG AGA GTG GCA GCG GGA CGC AAG GCT CAA CCA AGT GCC GGG AGT GTA GAC AGC CAA TCG GTC AAA ACT GCG AGG GGA GGG GAG GAC ATC GGC TTT GAT GGC GGC AAG AAA GTC AAG GGA CGC AAG CGC ACC ATC CTG GTC GAT ACA ATG GGA CTG TTA CTC GGT GTG TGT GTC CAC AGT GCC AAA CGC TCT GAC CAT CAG GGA ATG GTT TTA CTT GCC ACC TTT TGG GCT GCC TTT TGG TCT TGT CTC AAG GTG ATT TGG GTA GAC AGC ACC TTT GCA GGA AAA AAC TTT ATC GCC ACC ATC GCT CAG CAC TTT GGC TGG TCG CTC GAA CAT CTC AAA CCC ACA AAG ACT GAG CCG GGT TTC CAG GTC ATT CCG AAA CGA TGG GTG GTG GAA CGA ACC TAT GCC TGG TTT GGG CAT TAT CGC CGC TTG AGT AAA GAC TAT GAA TTT TTG ACC ACG ACA AGT GAA ATG ATG CTC TTT GCC GCT ATG GTA CAT TTG ATG GTT CGT CGA TTA AAA CCC AAA AAT CAA GCT AGA 
+WP_012625907.1_402              ATG ATA CGA CAA TCT TAC GAT ACC GAT CTG ACA GAT GAA CAG TGG GAA CTG CTC AAA CCC TTA ATC CCT CCG CCC CGC CCC GGT GGC CGT CCT CGG TGC CTC GAC ATC CGT GAA GTC TTG AAT GGG ATA TTT TAC TTG CTC AGC AAT GGG ATT AAA TGG CGG TCG ATG CCC CAT GAT TTC CCC AAC TGG CAC AGC ATT TAC ACC TAC TTT CGA GCG TGG GAA GCG GAT GGG ACG TGG AAA CGG CTG AAT CAG ACA TTA CGC ACC GAA GTG AGA GTG GCA GCG GGA CGC AAG GCT CAA CCA AGT GCC GGG AGT GTA GAC AGC CAA TCG GTC AAA ACT GCG AGG GGA GGG GAG GAC ATC GGC TTT GAT GGC GGC AAG AAA GTC AAG GGA CGC AAG CGC ACC ATC CTG GTC GAT ACA ATG GGA CTG TTA CTC GGT GTG TGT GTC CAC AGT GCC AAA CGC TCT GAC CAT CAG GGA ATG GTT TTA CTT GCC ACC TTT TGG GCT GCC TTT TGG TCT TGT CTC AAG GTG ATT TGG GTA GAC AGC ACC TTT GCA GGA AAA AAC TTT ATC GCC ACC ATC GCT CAG CAC TTT GGC TGG TCG CTC GAA CAT CTC AAA CCC ACA AAG ACT GAG CCG GGT TTC CAG GTC ATT CCG AAA CGA TGG GTG GTG GAA CGA ACC TAT GCC TGG TTT GGG CAT TAT CGC CGC TTG AGT AAA GAC TAT GAA TTT TTG ACC ACG ACA AGT GAA ATG ATG CTC TTT GCC GCT ATG GTA CAT TTG ATG GTT CGT CGA TTA AAA CCC AAA AAT CAA GCT AGA 
+WP_012625907.1_1106             ATG ATA CGA CAA TCT TAC GAT ACC GAT CTG ACA GAT GAA CAG TGG GAA CTG CTC AAA CCC TTA ATC CCT CCG CCC CGC CCC GGT GGC CGT CCT CGG TGC CTC GAC ATC CGT GAA GTC TTG AAT GGG ATA TTT TAC TTG CTC AGC AAT GGG ATT AAA TGG CGG TCG ATG CCC CAT GAT TTC CCC AAC TGG CAC AGC ATT TAC ACC TAC TTT CGA GCG TGG GAA GCG GAT GGG ACG TGG AAA CGG CTG AAT CAG ACA TTA CGC ACC GAA GTG AGA GTG GCA GCG GGA CGC AAG GCT CAA CCA AGT GCC GGG AGT GTA GAC AGC CAA TCG GTC AAA ACT GCG AGG GGA GGG GAG GAC ATC GGC TTT GAT GGC GGC AAG AAA GTC AAG GGA CGC AAG CGC ACC ATC CTG GTC GAT ACA ATG GGA CTG TTA CTC GGT GTG TGT GTC CAC AGT GCC AAA CGC TCT GAC CAT CAG GGA ATG GTT TTA CTT GCC ACC TTT TGG GCT GCC TTT TGG TCT TGT CTC AAG GTG ATT TGG GTA GAC AGC ACC TTT GCA GGA AAA AAC TTT ATC GCC ACC ATC GCT CAG CAC TTT GGC TGG TCG CTC GAA CAT CTC AAA CCC ACA AAG ACT GAG CCG GGT TTC CAG GTC ATT CCG AAA CGA TGG GTG GTG GAA CGA ACC TAT GCC TGG TTT GGG CAT TAT CGC CGC TTG AGT AAA GAC TAT GAA TTT TTG ACC ACG ACA AGT GAA ATG ATG CTC TTT GCC GCT ATG GTA CAT TTG ATG GTT CGT CGA TTA AAA CCC AAA AAT CAA GCT AGA 
+WP_012625907.1_853              ATG ATA CGA CAA TCT TAC GAT ACC GAT CTG ACA GAT GAA CAG TGG GAA CTG CTC AAA CCC TTA ATC CCT CCG CCC CGC CCC GGT GGC CGT CCT CGG TGC CTC GAC ATC CGT GAA GTC TTG AAT GGG ATA TTT TAC TTG CTC AGC AAT GGG ATT AAA TGG CGG TCG ATG CCC CAT GAT TTC CCC AAC TGG CAC AGC ATT TAC ACC TAC TTT CGA GCG TGG GAA GCG GAT GGG ACG TGG AAA CGG CTG AAT CAG ACA TTA CGC ACC GAA GTG AGA GTG GCA GCG GGA CGC AAG GCT CAA CCA AGT GCC GGG AGT GTA GAC AGC CAA TCG GTC AAA ACT GCG AGG GGA GGG GAG GAC ATC GGC TTT GAT GGC GGC AAG AAA GTC AAG GGA CGC AAG CGC ACC ATC CTG GTC GAT ACA ATG GGA CTG TTA CTC GGT GTG TGT GTC CAC AGT GCC AAA CGC TCT GAC CAT CAG GGA ATG GTT TTA CTT GCC ACC TTT TGG GCT GCC TTT TGG TCT TGT CTC AAG GTG ATT TGG GTA GAC AGC ACC TTT GCA GGA AAA AAC TTT ATC GCC ACC ATC GCT CAG CAC TTT GGC TGG TCG CTC GAA CAT CTC AAA CCC ACA AAG ACT GAG CCG GGT TTC CAG GTC ATT CCG AAA CGA TGG GTG GTG GAA CGA ACC TAT GCC TGG TTT GGG CAT TAT CGC CGC TTG AGT AAA GAC TAT GAA TTT TTG ACC ACG ACA AGT GAA ATG ATG CTC TTT GCC GCT ATG GTA CAT TTG ATG GTT CGT CGA TTA AAA CCC AAA AAT CAA GCT AGA 
+WP_012625907.1_5046             ATG ATA CGA CAA TCT TAC GAT ACC GAT CTG ACA GAT GAA CAG TGG GAA CTG CTC AAA CCC TTA ATC CCT CCG CCC CGC CCC GGT GGC CGT CCT CGG TGC CTC GAC ATC CGT GAA GTC TTG AAT GGG ATA TTT TAC TTG CTC AGC AAT GGG ATT AAA TGG CGG TCG ATG CCC CAT GAT TTC CCC AAC TGG CAC AGC ATT TAC ACC TAC TTT CGA GCG TGG GAA GCG GAT GGG ACG TGG AAA CGG CTG AAT CAG ACA TTA CGC ACC GAA GTG AGA GTG GCA GCG GGA CGC AAG GCT CAA CCA AGT GCC GGG AGT GTA GAC AGC CAA TCG GTC AAA ACT GCG AGG GGA GGG GAG GAC ATC GGC TTT GAT GGC GGC AAG AAA GTC AAG GGA CGC AAG CGC ACC ATC CTG GTC GAT ACA ATG GGA CTG TTA CTC GGT GTG TGT GTC CAC AGT GCC AAA CGC TCT GAC CAT CAG GGA ATG GTT TTA CTT GCC ACC TTT TGG GCT GCC TTT TGG TCT TGT CTC AAG GTG ATT TGG GTA GAC AGC ACC TTT GCA GGA AAA AAC TTT ATC GCC ACC ATC GCT CAG CAC TTT GGC TGG TCG CTC GAA CAT CTC AAA CCC ACA AAG ACT GAG CCG GGT TTC CAG GTC ATT CCG AAA CGA TGG GTG GTG GAA CGA ACC TAT GCC TGG TTT GGG CAT TAT CGC CGC TTG AGT AAA GAC TAT GAA TTT TTG ACC ACG ACA AGT GAA ATG ATG CTC TTT GCC GCT ATG GTA CAT TTG ATG GTT CGT CGA TTA AAA CCC AAA AAT CAA GCT AGA 
+WP_012625907.1_5146             ATG ATA CGA CAA TCT TAC GAT ACC GAT CTG ACA GAT GAA CAG TGG GAA CTG CTC AAA CCC TTA ATC CCT CCG CCC CGC CCC GGT GGC CGT CCT CGG TGC CTC GAC ATC CGT GAA GTC TTG AAT GGG ATA TTT TAC TTG CTC AGC AAT GGG ATT AAA TGG CGG TCG ATG CCC CAT GAT TTC CCC AAC TGG CAC AGC ATT TAC ACC TAC TTT CGA GCG TGG GAA GCG GAT GGG ACG TGG AAA CGG CTG AAT CAG ACA TTA CGC ACC GAA GTG AGA GTG GCA GCG GGA CGC AAG GCT CAA CCA AGT GCC GGG AGT GTA GAC AGC CAA TCG GTC AAA ACT GCG AGG GGA GGG GAG GAC ATC GGC TTT GAT GGC GGC AAG AAA GTC AAG GGA CGC AAG CGC ACC ATC CTG GTC GAT ACA ATG GGA CTG TTA CTC GGT GTG TGT GTC CAC AGT GCC AAA CGC TCT GAC CAT CAG GGA ATG GTT TTA CTT GCC ACC TTT TGG GCT GCC TTT TGG TCT TGT CTC AAG GTG ATT TGG GTA GAC AGC ACC TTT GCA GGA AAA AAC TTT ATC GCC ACC ATC GCT CAG CAC TTT GGC TGG TCG CTC GAA CAT CTC AAA CCC ACA AAG ACT GAG CCG GGT TTC CAG GTC ATT CCG AAA CGA TGG GTG GTG GAA CGA ACC TAT GCC TGG TTT GGG CAT TAT CGC CGC TTG AGT AAA GAC TAT GAA TTT TTG ACC ACG ACA AGT GAA ATG ATG CTC TTT GCC GCT ATG GTA CAT TTG ATG GTT CGT CGA TTA AAA CCC AAA AAT CAA GCT AGA 
+WP_012625907.1_1916             ATG ATA CGA CAA TCT TAC GAT ACC GAT CTG ACA GAT GAA CAG TGG GAA CTG CTC AAA CCC TTA ATC CCT CCG CCC CGC CCC GGT GGC CGT CCT CGG TGC CTC GAC ATC CGT GAA GTC TTG AAT GGG ATA TTT TAC TTG CTC AGC AAT GGG ATT AAA TGG CGG TCG ATG CCC CAT GAT TTC CCC AAC TGG CAC AGC ATT TAC ACC TAC TTT CGA GCG TGG GAA GCG GAT GGG ACG TGG AAA CGG CTG AAT CAG ACA TTA CGC ACC GAA GTG AGA GTG GCA GCG GGA CGC AAG GCT CAA CCA AGT GCC GGG AGT GTA GAC AGC CAA TCG GTC AAA ACT GCG AGG GGA GGG GAG GAC ATC GGC TTT GAT GGC GGC AAG AAA GTC AAG GGA CGC AAG CGC ACC ATC CTG GTC GAT ACA ATG GGA CTG TTA CTC GGT GTG TGT GTC CAC AGT GCC AAA CGC TCT GAC CAT CAG GGA ATG GTT TTA CTT GCC ACC TTT TGG GCT GCC TTT TGG TCT TGT CTC AAG GTG ATT TGG GTA GAC AGC ACC TTT GCA GGA AAA AAC TTT ATC GCC ACC ATC GCT CAG CAC TTT GGC TGG TCG CTC GAA CAT CTC AAA CCC ACA AAG ACT GAG CCG GGT TTC CAG GTC ATT CCG AAA CGA TGG GTG GTG GAA CGA ACC TAT GCC TGG TTT GGG CAT TAT CGC CGC TTG AGT AAA GAC TAT GAA TTT TTG ACC ACG ACA AGT GAA ATG ATG CTC TTT GCC GCT ATG GTA CAT TTG ATG GTT CGT CGA TTA AAA CCC AAA AAT CAA GCT AGA 
+WP_012625907.1_2172             ATG ATA CGA CAA TCT TAC GAT ACC GAT CTG ACA GAT GAA CAG TGG GAA CTG CTC AAA CCC TTA ATC CCT CCG CCC CGC CCC GGT GGC CGT CCT CGG TGC CTC GAC ATC CGT GAA GTC TTG AAT GGG ATA TTT TAC TTG CTC AGC AAT GGG ATT AAA TGG CGG TCG ATG CCC CAT GAT TTC CCC AAC TGG CAC AGC ATT TAC ACC TAC TTT CGA GCG TGG GAA GCG GAT GGG ACG TGG AAA CGG CTG AAT CAG ACA TTA CGC ACC GAA GTG AGA GTG GCA GCG GGA CGC AAG GCT CAA CCA AGT GCC GGG AGT GTA GAC AGC CAA TCG GTC AAA ACT GCG AGG GGA GGG GAG GAC ATC GGC TTT GAT GGC GGC AAG AAA GTC AAG GGA CGC AAG CGC ACC ATC CTG GTC GAT ACA ATG GGA CTG TTA CTC GGT GTG TGT GTC CAC AGT GCC AAA CGC TCT GAC CAT CAG GGA ATG GTT TTA CTT GCC ACC TTT TGG GCT GCC TTT TGG TCT TGT CTC AAG GTG ATT TGG GTA GAC AGC ACC TTT GCA GGA AAA AAC TTT ATC GCC ACC ATC GCT CAG CAC TTT GGC TGG TCG CTC GAA CAT CTC AAA CCC ACA AAG ACT GAG CCG GGT TTC CAG GTC ATT CCG AAA CGA TGG GTG GTG GAA CGA ACC TAT GCC TGG TTT GGG CAT TAT CGC CGC TTG AGT AAA GAC TAT GAA TTT TTG ACC ACG ACA AGT GAA ATG ATG CTC TTT GCC GCT ATG GTA CAT TTG ATG GTT CGT CGA TTA AAA CCC AAA AAT CAA GCT AGA 
+WP_012625907.1_3647             ATG ATA CGA CAA TCT TAC GAT ACC GAT CTG ACA GAT GAA CAG TGG GAA CTG CTC AAA CCC TTA ATC CCT CCG CCC CGC CCC GGT GGC CGT CCT CGG TGC CTC GAC ATC CGT GAA GTC TTG AAT GGG ATA TTT TAC TTG CTC AGC AAT GGG ATT AAA TGG CGG TCG ATG CCC CAT GAT TTC CCC AAC TGG CAC AGC ATT TAC ACC TAC TTT CGA GCG TGG GAA GCG GAT GGG ACG TGG AAA CGG CTG AAT CAG ACA TTA CGC ACC GAA GTG AGA GTG GCA GCG GGA CGC AAG GCT CAA CCA AGT GCC GGG AGT GTA GAC AGC CAA TCG GTC AAA ACT GCG AGG GGA GGG GAG GAC ATC GGC TTT GAT GGC GGC AAG AAA GTC AAG GGA CGC AAG CGC ACC ATC CTG GTC GAT ACA ATG GGA CTG TTA CTC GGT GTG TGT GTC CAC AGT GCC AAA CGC TCT GAC CAT CAG GGA ATG GTT TTA CTT GCC ACC TTT TGG GCT GCC TTT TGG TCT TGT CTC AAG GTG ATT TGG GTA GAC AGC ACC TTT GCA GGA AAA AAC TTT ATC GCC ACC ATC GCT CAG CAC TTT GGC TGG TCG CTC GAA CAT CTC AAA CCC ACA AAG ACT GAG CCG GGT TTC CAG GTC ATT CCG AAA CGA TGG GTG GTG GAA CGA ACC TAT GCC TGG TTT GGG CAT TAT CGC CGC TTG AGT AAA GAC TAT GAA TTT TTG ACC ACG ACA AGT GAA ATG ATG CTC TTT GCC GCT ATG GTA CAT TTG ATG GTT CGT CGA TTA AAA CCC AAA AAT CAA GCT AGA 
+WP_012625907.1_4831             ATG ATA CGA CAA TCT TAC GAT ACC GAT CTG ACA GAT GAA CAG TGG GAA CTG CTC AAA CCC TTA ATC CCT CCG CCC CGC CCC GGT GGC CGT CCT CGG TGC CTC GAC ATC CGT GAA GTC TTG AAT GGG ATA TTT TAC TTG CTC AGC AAT GGG ATT AAA TGG CGG TCG ATG CCC CAT GAT TTC CCC AAC TGG CAC AGC ATT TAC ACC TAC TTT CGA GCG TGG GAA GCG GAT GGG ACG TGG AAA CGG CTG AAT CAG ACA TTA CGC ACC GAA GTG AGA GTG GCA GCG GGA CGC AAG GCT CAA CCA AGT GCC GGG AGT GTA GAC AGC CAA TCG GTC AAA ACT GCG AGG GGA GGG GAG GAC ATC GGC TTT GAT GGC GGC AAG AAA GTC AAG GGA CGC AAG CGC ACC ATC CTG GTC GAT ACA ATG GGA CTG TTA CTC GGT GTG TGT GTC CAC AGT GCC AAA CGC TCT GAC CAT CAG GGA ATG GTT TTA CTT GCC ACC TTT TGG GCT GCC TTT TGG TCT TGT CTC AAG GTG ATT TGG GTA GAC AGC ACC TTT GCA GGA AAA AAC TTT ATC GCC ACC ATC GCT CAG CAC TTT GGC TGG TCG CTC GAA CAT CTC AAA CCC ACA AAG ACT GAG CCG GGT TTC CAG GTC ATT CCG AAA CGA TGG GTG GTG GAA CGA ACC TAT GCC TGG TTT GGG CAT TAT CGC CGC TTG AGT AAA GAC TAT GAA TTT TTG ACC ACG ACA AGT GAA ATG ATG CTC TTT GCC GCT ATG GTA CAT TTG ATG GTT CGT CGA TTA AAA CCC AAA AAT CAA GCT AGA 
+WP_012625907.1_2688             ATG ATA CGA CAA TCT TAC GAT ACC GAT CTG ACA GAT GAA CAG TGG GAA CTG CTC AAA CCC TTA ATC CCT CCG CCC CGC CCC GGT GGC CGT CCT CGG TGC CTC GAC ATC CGT GAA GTC TTG AAT GGG ATA TTT TAC TTG CTC AGC AAT GGG ATT AAA TGG CGG TCG ATG CCC CAT GAT TTC CCC AAC TGG CAC AGC ATT TAC ACC TAC TTT CGA GCG TGG GAA GCG GAT GGG ACG TGG AAA CGG CTG AAT CAG ACA TTA CGC ACC GAA GTG AGA GTG GCA GCG GGA CGC AAG GCT CAA CCA AGT GCC GGG AGT GTA GAC AGC CAA TCG GTC AAA ACT GCG AGG GGA GGG GAG GAC ATC GGC TTT GAT GGC GGC AAG AAA GTC AAG GGA CGC AAG CGC ACC ATC CTG GTC GAT ACA ATG GGA CTG TTA CTC GGT GTG TGT GTC CAC AGT GCC AAA CGC TCT GAC CAT CAG GGA ATG GTT TTA CTT GCC ACC TTT TGG GCT GCC TTT TGG TCT TGT CTC AAG GTG ATT TGG GTA GAC AGC ACC TTT GCA GGA AAA AAC TTT ATC GCC ACC ATC GCT CAG CAC TTT GGC TGG TCG CTC GAA CAT CTC AAA CCC ACA AAG ACT GAG CCG GGT TTC CAG GTC ATT CCG AAA CGA TGG GTG GTG GAA CGA ACC TAT GCC TGG TTT GGG CAT TAT CGC CGC TTG AGT AAA GAC TAT GAA TTT TTG ACC ACG ACA AGT GAA ATG ATG CTC TTT GCC GCT ATG GTA CAT TTG ATG GTT CGT CGA TTA AAA CCC AAA AAT CAA GCT AGA 
+
+
+
+Printing out site pattern counts
+
+
+        14        174  P
+
+WP_012625907.1_4616             AAA AAC AAG AAT ACA ACC ACG ACT AGA AGC AGG AGT ATA ATC ATG ATT CAA CAC CAG CAT CCA CCC CCG CCT CGA CGC CGG CGT CTC CTG CTT GAA GAC GAG GAT GCA GCC GCG GCT GGA GGC GGG GGT GTA GTC GTG GTT TAC TAT TCG TCT TGC TGG TGT TTA TTC TTG TTT 
+WP_012625907.1_1834             ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+WP_012625907.1_1675             ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+WP_012625907.1_208              ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+WP_012625907.1_402              ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+WP_012625907.1_1106             ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+WP_012625907.1_853              ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+WP_012625907.1_5046             ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+WP_012625907.1_5146             ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+WP_012625907.1_1916             ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+WP_012625907.1_2172             ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+WP_012625907.1_3647             ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+WP_012625907.1_4831             ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+WP_012625907.1_2688             ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+
+   12    2    6    4    5    9    2    2    2    4    1    5    2    6    8
+    4    4    3    5    5    1    7    3    2    5    8    3    3    8    5
+    1    9    6    2    7    2    7    4    5    6    5    6    3    3    6
+    6    2    4    3    3    3    1   11    2    5    2    5   11
+
+CODONML (in paml version 4.9, March 2015)  dnds-analysis/WP_012625907.1_4616.faa.codonalign.fa
+Model: several dN/dS ratios for branches for branches, 
+Codon frequency model: F3x4
+ns =  14  ls = 266
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT  11  11  11  11  11  11 | Ser TCT   3   3   3   3   3   3 | Tyr TAT   3   3   3   3   3   3 | Cys TGT   2   2   2   2   2   2
+    TTC   2   2   2   2   2   2 |     TCC   0   0   0   0   0   0 |     TAC   4   4   4   4   4   4 |     TGC   1   1   1   1   1   1
+Leu TTA   5   5   5   5   5   5 |     TCA   0   0   0   0   0   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   5   5   5   5   5   5 |     TCG   3   3   3   3   3   3 |     TAG   0   0   0   0   0   0 | Trp TGG  11  11  11  11  11  11
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   1   1   1   1   1   1 | Pro CCT   2   2   2   2   2   2 | His CAT   5   5   5   5   5   5 | Arg CGT   3   3   3   3   3   3
+    CTC   8   8   8   8   8   8 |     CCC   7   7   7   7   7   7 |     CAC   3   3   3   3   3   3 |     CGC   8   8   8   8   8   8
+    CTA   0   0   0   0   0   0 |     CCA   1   1   1   1   1   1 | Gln CAA   4   4   4   4   4   4 |     CGA   5   5   5   5   5   5
+    CTG   5   5   5   5   5   5 |     CCG   3   3   3   3   3   3 |     CAG   5   5   5   5   5   5 |     CGG   3   3   3   3   3   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   4   4   4   4   4   4 | Thr ACT   2   2   2   2   2   2 | Asn AAT   4   4   4   4   4   4 | Ser AGT   5   5   5   5   5   5
+    ATC   6   6   6   6   6   6 |     ACC   9   9   9   9   9   9 |     AAC   2   2   2   2   2   2 |     AGC   4   4   4   4   4   4
+    ATA   2   2   2   2   2   2 |     ACA   5   5   5   5   5   5 | Lys AAA  12  12  12  12  12  12 | Arg AGA   2   2   2   2   2   2
+Met ATG   8   8   8   8   8   8 |     ACG   2   2   2   2   2   2 |     AAG   6   6   6   6   6   6 |     AGG   1   1   1   1   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   2   2   2   2   2   2 | Ala GCT   5   5   5   5   5   5 | Asp GAT   7   7   7   7   7   7 | Gly GGT   3   3   3   3   3   3
+    GTC   6   6   6   6   6   6 |     GCC   7   7   7   7   7   7 |     GAC   6   6   6   6   6   6 |     GGC   5   5   5   5   5   5
+    GTA   3   3   3   3   3   3 |     GCA   2   2   2   2   2   2 | Glu GAA   9   9   9   9   9   9 |     GGA   6   6   6   6   6   6
+    GTG   6   6   6   6   6   6 |     GCG   4   4   4   4   4   4 |     GAG   2   2   2   2   2   2 |     GGG   6   6   6   6   6   6
+--------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT  11  11  11  11  11  11 | Ser TCT   3   3   3   3   3   3 | Tyr TAT   3   3   3   3   3   3 | Cys TGT   2   2   2   2   2   2
+    TTC   2   2   2   2   2   2 |     TCC   0   0   0   0   0   0 |     TAC   4   4   4   4   4   4 |     TGC   1   1   1   1   1   1
+Leu TTA   5   5   5   5   5   5 |     TCA   0   0   0   0   0   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   5   5   5   5   5   5 |     TCG   3   3   3   3   3   3 |     TAG   0   0   0   0   0   0 | Trp TGG  11  11  11  11  11  11
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   1   1   1   1   1   1 | Pro CCT   2   2   2   2   2   2 | His CAT   5   5   5   5   5   5 | Arg CGT   3   3   3   3   3   3
+    CTC   8   8   8   8   8   8 |     CCC   7   7   7   7   7   7 |     CAC   3   3   3   3   3   3 |     CGC   8   8   8   8   8   8
+    CTA   0   0   0   0   0   0 |     CCA   1   1   1   1   1   1 | Gln CAA   4   4   4   4   4   4 |     CGA   5   5   5   5   5   5
+    CTG   5   5   5   5   5   5 |     CCG   3   3   3   3   3   3 |     CAG   5   5   5   5   5   5 |     CGG   3   3   3   3   3   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   4   4   4   4   4   4 | Thr ACT   2   2   2   2   2   2 | Asn AAT   4   4   4   4   4   4 | Ser AGT   5   5   5   5   5   5
+    ATC   6   6   6   6   6   6 |     ACC   9   9   9   9   9   9 |     AAC   2   2   2   2   2   2 |     AGC   4   4   4   4   4   4
+    ATA   2   2   2   2   2   2 |     ACA   5   5   5   5   5   5 | Lys AAA  12  12  12  12  12  12 | Arg AGA   2   2   2   2   2   2
+Met ATG   8   8   8   8   8   8 |     ACG   2   2   2   2   2   2 |     AAG   6   6   6   6   6   6 |     AGG   1   1   1   1   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   2   2   2   2   2   2 | Ala GCT   5   5   5   5   5   5 | Asp GAT   7   7   7   7   7   7 | Gly GGT   3   3   3   3   3   3
+    GTC   6   6   6   6   6   6 |     GCC   7   7   7   7   7   7 |     GAC   6   6   6   6   6   6 |     GGC   5   5   5   5   5   5
+    GTA   3   3   3   3   3   3 |     GCA   2   2   2   2   2   2 | Glu GAA   9   9   9   9   9   9 |     GGA   6   6   6   6   6   6
+    GTG   6   6   6   6   6   6 |     GCG   4   4   4   4   4   4 |     GAG   2   2   2   2   2   2 |     GGG   6   6   6   6   6   6
+--------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------
+Phe TTT  11  11 | Ser TCT   3   3 | Tyr TAT   3   3 | Cys TGT   2   2
+    TTC   2   2 |     TCC   0   0 |     TAC   4   4 |     TGC   1   1
+Leu TTA   5   5 |     TCA   0   0 | *** TAA   0   0 | *** TGA   0   0
+    TTG   5   5 |     TCG   3   3 |     TAG   0   0 | Trp TGG  11  11
+----------------------------------------------------------------------
+Leu CTT   1   1 | Pro CCT   2   2 | His CAT   5   5 | Arg CGT   3   3
+    CTC   8   8 |     CCC   7   7 |     CAC   3   3 |     CGC   8   8
+    CTA   0   0 |     CCA   1   1 | Gln CAA   4   4 |     CGA   5   5
+    CTG   5   5 |     CCG   3   3 |     CAG   5   5 |     CGG   3   3
+----------------------------------------------------------------------
+Ile ATT   4   4 | Thr ACT   2   2 | Asn AAT   4   4 | Ser AGT   5   5
+    ATC   6   6 |     ACC   9   9 |     AAC   2   2 |     AGC   4   4
+    ATA   2   2 |     ACA   5   5 | Lys AAA  12  12 | Arg AGA   2   2
+Met ATG   8   8 |     ACG   2   2 |     AAG   6   6 |     AGG   1   1
+----------------------------------------------------------------------
+Val GTT   2   2 | Ala GCT   5   5 | Asp GAT   7   7 | Gly GGT   3   3
+    GTC   6   6 |     GCC   7   7 |     GAC   6   6 |     GGC   5   5
+    GTA   3   3 |     GCA   2   2 | Glu GAA   9   9 |     GGA   6   6
+    GTG   6   6 |     GCG   4   4 |     GAG   2   2 |     GGG   6   6
+----------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: WP_012625907.1_4616
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+#2: WP_012625907.1_1834
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+#3: WP_012625907.1_1675
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+#4: WP_012625907.1_208
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+#5: WP_012625907.1_402
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+#6: WP_012625907.1_1106
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+#7: WP_012625907.1_853
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+#8: WP_012625907.1_5046
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+#9: WP_012625907.1_5146
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+#10: WP_012625907.1_1916
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+#11: WP_012625907.1_2172
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+#12: WP_012625907.1_3647
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+#13: WP_012625907.1_4831
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+#14: WP_012625907.1_2688
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT     154 | Ser S TCT      42 | Tyr Y TAT      42 | Cys C TGT      28
+      TTC      28 |       TCC       0 |       TAC      56 |       TGC      14
+Leu L TTA      70 |       TCA       0 | *** * TAA       0 | *** * TGA       0
+      TTG      70 |       TCG      42 |       TAG       0 | Trp W TGG     154
+------------------------------------------------------------------------------
+Leu L CTT      14 | Pro P CCT      28 | His H CAT      70 | Arg R CGT      42
+      CTC     112 |       CCC      98 |       CAC      42 |       CGC     112
+      CTA       0 |       CCA      14 | Gln Q CAA      56 |       CGA      70
+      CTG      70 |       CCG      42 |       CAG      70 |       CGG      42
+------------------------------------------------------------------------------
+Ile I ATT      56 | Thr T ACT      28 | Asn N AAT      56 | Ser S AGT      70
+      ATC      84 |       ACC     126 |       AAC      28 |       AGC      56
+      ATA      28 |       ACA      70 | Lys K AAA     168 | Arg R AGA      28
+Met M ATG     112 |       ACG      28 |       AAG      84 |       AGG      14
+------------------------------------------------------------------------------
+Val V GTT      28 | Ala A GCT      70 | Asp D GAT      98 | Gly G GGT      42
+      GTC      84 |       GCC      98 |       GAC      84 |       GGC      70
+      GTA      42 |       GCA      28 | Glu E GAA     126 |       GGA      84
+      GTG      84 |       GCG      56 |       GAG      28 |       GGG      84
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.18797    C:0.23684    A:0.27820    G:0.29699
+position  2:    T:0.27820    C:0.20677    A:0.27068    G:0.24436
+position  3:    T:0.23308    C:0.29323    A:0.21053    G:0.26316
+Average         T:0.23308    C:0.24561    A:0.25313    G:0.26817
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.01261445  0.01586979  0.01139370  0.01424212
+  0.00937560  0.01179511  0.00846829  0.01058536
+  0.01227352  0.01544088  0.00000000  0.00000000
+  0.01108026  0.01393968  0.00000000  0.01250997
+  0.01589420  0.01999594  0.01435606  0.01794507
+  0.01181326  0.01486184  0.01067004  0.01333755
+  0.01546463  0.01945550  0.01396805  0.01746007
+  0.01396113  0.01756400  0.01261005  0.01576256
+  0.01866938  0.02348729  0.01686267  0.02107834
+  0.01387589  0.01745677  0.01253306  0.01566633
+  0.01816481  0.02285250  0.01640692  0.02050865
+  0.01639878  0.02063073  0.01481180  0.01851475
+  0.01993083  0.02507427  0.01800204  0.02250255
+  0.01481345  0.01863628  0.01337989  0.01672487
+  0.01939216  0.02439659  0.01751550  0.02189437
+  0.01750681  0.02202469  0.01581260  0.01976575
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+WP_012625907.1_4616 
+WP_012625907.1_1834 -1.0000 (0.0000 0.0000)
+WP_012625907.1_1675 -1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+WP_012625907.1_208  -1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+WP_012625907.1_402  -1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+WP_012625907.1_1106 -1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+WP_012625907.1_853  -1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+WP_012625907.1_5046 -1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+WP_012625907.1_5146 -1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+WP_012625907.1_1916 -1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+WP_012625907.1_2172 -1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+WP_012625907.1_3647 -1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+WP_012625907.1_4831 -1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+WP_012625907.1_2688 -1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)-1.0000 (0.0000 0.0000)
+
+pairwise comparison, codon frequencies: F3x4.
+
+
+2 (WP_012625907.1_1834) ... 1 (WP_012625907.1_4616)
+lnL =-1089.509382
+  0.00001  1.39735  0.39225
+
+t= 0.0000  S=   202.2  N=   595.8  dN/dS=  0.3922  dN = 0.0000  dS = 0.0000
+
+
+3 (WP_012625907.1_1675) ... 1 (WP_012625907.1_4616)
+lnL =-1089.509385
+  0.00001  1.82817  0.41629
+
+t= 0.0000  S=   209.8  N=   588.2  dN/dS=  0.4163  dN = 0.0000  dS = 0.0000
+
+
+3 (WP_012625907.1_1675) ... 2 (WP_012625907.1_1834)
+lnL =-1089.509323
+  0.00001  0.40000  0.15885
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.1589  dN = 0.0000  dS = 0.0000
+
+
+4 (WP_012625907.1_208) ... 1 (WP_012625907.1_4616)
+lnL =-1089.509343
+  0.00001  1.12428  0.16090
+
+t= 0.0000  S=   196.2  N=   601.8  dN/dS=  0.1609  dN = 0.0000  dS = 0.0000
+
+
+4 (WP_012625907.1_208) ... 2 (WP_012625907.1_1834)
+lnL =-1089.509301
+  0.00001  1.42535  0.00532
+
+t= 0.0000  S=   202.7  N=   595.3  dN/dS=  0.0053  dN = 0.0000  dS = 0.0000
+
+
+4 (WP_012625907.1_208) ... 3 (WP_012625907.1_1675)
+lnL =-1089.509346
+  0.00001  1.65910  0.13009
+
+t= 0.0000  S=   207.0  N=   591.0  dN/dS=  0.1301  dN = 0.0000  dS = 0.0000
+
+
+5 (WP_012625907.1_402) ... 1 (WP_012625907.1_4616)
+lnL =-1089.509313
+  0.00001  1.83993  0.00100
+
+t= 0.0000  S=   210.0  N=   588.0  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+5 (WP_012625907.1_402) ... 2 (WP_012625907.1_1834)
+lnL =-1089.509338
+  0.00001  1.92581  0.08045
+
+t= 0.0000  S=   211.3  N=   586.7  dN/dS=  0.0804  dN = 0.0000  dS = 0.0000
+
+
+5 (WP_012625907.1_402) ... 3 (WP_012625907.1_1675)
+lnL =-1089.509331
+  0.00001  2.14416  0.03534
+
+t= 0.0000  S=   214.4  N=   583.6  dN/dS=  0.0353  dN = 0.0000  dS = 0.0000
+
+
+5 (WP_012625907.1_402) ... 4 (WP_012625907.1_208)
+lnL =-1089.509324
+  0.00001  2.31770  0.00100
+
+t= 0.0000  S=   216.6  N=   581.4  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+6 (WP_012625907.1_1106) ... 1 (WP_012625907.1_4616)
+lnL =-1089.509325
+  0.00001  2.35069  0.00100
+
+t= 0.0000  S=   217.0  N=   581.0  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+6 (WP_012625907.1_1106) ... 2 (WP_012625907.1_1834)
+lnL =-1089.509348
+  0.00001  2.34952  0.09463
+
+t= 0.0000  S=   217.0  N=   581.0  dN/dS=  0.0946  dN = 0.0000  dS = 0.0000
+
+
+6 (WP_012625907.1_1106) ... 3 (WP_012625907.1_1675)
+lnL =-1089.509357
+  0.00001  2.50319  0.13809
+
+t= 0.0000  S=   218.8  N=   579.2  dN/dS=  0.1381  dN = 0.0000  dS = 0.0000
+
+
+6 (WP_012625907.1_1106) ... 4 (WP_012625907.1_208)
+lnL =-1089.509324
+  0.00001  2.33853  0.00100
+
+t= 0.0000  S=   216.8  N=   581.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+6 (WP_012625907.1_1106) ... 5 (WP_012625907.1_402)
+lnL =-1089.509325
+  0.00001  2.38864  0.00100
+
+t= 0.0000  S=   217.4  N=   580.6  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+7 (WP_012625907.1_853) ... 1 (WP_012625907.1_4616)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+7 (WP_012625907.1_853) ... 2 (WP_012625907.1_1834)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+7 (WP_012625907.1_853) ... 3 (WP_012625907.1_1675)
+lnL =-1089.509331
+  0.00001  0.91592  0.13111
+
+t= 0.0000  S=   190.9  N=   607.1  dN/dS=  0.1311  dN = 0.0000  dS = 0.0000
+
+
+7 (WP_012625907.1_853) ... 4 (WP_012625907.1_208)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+7 (WP_012625907.1_853) ... 5 (WP_012625907.1_402)
+lnL =-1089.509292
+  0.00001  1.24674  0.00100
+
+t= 0.0000  S=   199.0  N=   599.0  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+7 (WP_012625907.1_853) ... 6 (WP_012625907.1_1106)
+lnL =-1089.509324
+  0.00001  1.45723  0.06479
+
+t= 0.0000  S=   203.3  N=   594.7  dN/dS=  0.0648  dN = 0.0000  dS = 0.0000
+
+
+8 (WP_012625907.1_5046) ... 1 (WP_012625907.1_4616)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+8 (WP_012625907.1_5046) ... 2 (WP_012625907.1_1834)
+lnL =-1089.509324
+  0.00001  1.10636  0.09321
+
+t= 0.0000  S=   195.8  N=   602.2  dN/dS=  0.0932  dN = 0.0000  dS = 0.0000
+
+
+8 (WP_012625907.1_5046) ... 3 (WP_012625907.1_1675)
+lnL =-1089.509315
+  0.00001  0.97654  0.07990
+
+t= 0.0000  S=   192.5  N=   605.5  dN/dS=  0.0799  dN = 0.0000  dS = 0.0000
+
+
+8 (WP_012625907.1_5046) ... 4 (WP_012625907.1_208)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+8 (WP_012625907.1_5046) ... 5 (WP_012625907.1_402)
+lnL =-1089.509284
+  0.00001  1.08217  0.00100
+
+t= 0.0000  S=   195.2  N=   602.8  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+8 (WP_012625907.1_5046) ... 6 (WP_012625907.1_1106)
+lnL =-1089.509306
+  0.00001  1.41892  0.01806
+
+t= 0.0000  S=   202.6  N=   595.4  dN/dS=  0.0181  dN = 0.0000  dS = 0.0000
+
+
+8 (WP_012625907.1_5046) ... 7 (WP_012625907.1_853)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+9 (WP_012625907.1_5146) ... 1 (WP_012625907.1_4616)
+lnL =-1089.509279
+  0.00001  0.98112  0.00100
+
+t= 0.0000  S=   192.6  N=   605.4  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+9 (WP_012625907.1_5146) ... 2 (WP_012625907.1_1834)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+9 (WP_012625907.1_5146) ... 3 (WP_012625907.1_1675)
+lnL =-1089.509286
+  0.00001  1.11582  0.00100
+
+t= 0.0000  S=   196.0  N=   602.0  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+9 (WP_012625907.1_5146) ... 4 (WP_012625907.1_208)
+lnL =-1089.509313
+  0.00001  1.46441  0.03228
+
+t= 0.0000  S=   203.5  N=   594.5  dN/dS=  0.0323  dN = 0.0000  dS = 0.0000
+
+
+9 (WP_012625907.1_5146) ... 5 (WP_012625907.1_402)
+lnL =-1089.509270
+  0.00001  0.82597  0.00100
+
+t= 0.0000  S=   188.4  N=   609.6  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+9 (WP_012625907.1_5146) ... 6 (WP_012625907.1_1106)
+lnL =-1089.509274
+  0.00001  0.90450  0.00100
+
+t= 0.0000  S=   190.6  N=   607.4  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+9 (WP_012625907.1_5146) ... 7 (WP_012625907.1_853)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+9 (WP_012625907.1_5146) ... 8 (WP_012625907.1_5046)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+10 (WP_012625907.1_1916) ... 1 (WP_012625907.1_4616)
+lnL =-1089.509242
+  0.00001  0.40000  0.00981
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0098  dN = 0.0000  dS = 0.0000
+
+
+10 (WP_012625907.1_1916) ... 2 (WP_012625907.1_1834)
+lnL =-1089.509256
+  0.00001  0.63667  0.00100
+
+t= 0.0000  S=   182.5  N=   615.5  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+10 (WP_012625907.1_1916) ... 3 (WP_012625907.1_1675)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+10 (WP_012625907.1_1916) ... 4 (WP_012625907.1_208)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+10 (WP_012625907.1_1916) ... 5 (WP_012625907.1_402)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+10 (WP_012625907.1_1916) ... 6 (WP_012625907.1_1106)
+lnL =-1089.509296
+  0.00001  1.00027  0.03213
+
+t= 0.0000  S=   193.1  N=   604.9  dN/dS=  0.0321  dN = 0.0000  dS = 0.0000
+
+
+10 (WP_012625907.1_1916) ... 7 (WP_012625907.1_853)
+lnL =-1089.509349
+  0.00001  1.42697  0.16180
+
+t= 0.0000  S=   202.7  N=   595.3  dN/dS=  0.1618  dN = 0.0000  dS = 0.0000
+
+
+10 (WP_012625907.1_1916) ... 8 (WP_012625907.1_5046)
+lnL =-1089.509343
+  0.00001  1.88784  0.10276
+
+t= 0.0000  S=   210.7  N=   587.3  dN/dS=  0.1028  dN = 0.0000  dS = 0.0000
+
+
+10 (WP_012625907.1_1916) ... 9 (WP_012625907.1_5146)
+lnL =-1089.509332
+  0.00001  0.40000  0.18615
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.1861  dN = 0.0000  dS = 0.0000
+
+
+11 (WP_012625907.1_2172) ... 1 (WP_012625907.1_4616)
+lnL =-1089.509359
+  0.00001  1.06554  0.24290
+
+t= 0.0000  S=   194.8  N=   603.2  dN/dS=  0.2429  dN = 0.0000  dS = 0.0000
+
+
+11 (WP_012625907.1_2172) ... 2 (WP_012625907.1_1834)
+lnL =-1089.509296
+  0.00001  1.33978  0.00100
+
+t= 0.0000  S=   201.0  N=   597.0  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+11 (WP_012625907.1_2172) ... 3 (WP_012625907.1_1675)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+11 (WP_012625907.1_2172) ... 4 (WP_012625907.1_208)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+11 (WP_012625907.1_2172) ... 5 (WP_012625907.1_402)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+11 (WP_012625907.1_2172) ... 6 (WP_012625907.1_1106)
+lnL =-1089.509328
+  0.00001  0.79577  0.13433
+
+t= 0.0000  S=   187.5  N=   610.5  dN/dS=  0.1343  dN = 0.0000  dS = 0.0000
+
+
+11 (WP_012625907.1_2172) ... 7 (WP_012625907.1_853)
+lnL =-1089.509349
+  0.00001  1.20550  0.17888
+
+t= 0.0000  S=   198.1  N=   599.9  dN/dS=  0.1789  dN = 0.0000  dS = 0.0000
+
+
+11 (WP_012625907.1_2172) ... 8 (WP_012625907.1_5046)
+lnL =-1089.509358
+  0.00001  1.43401  0.20939
+
+t= 0.0000  S=   202.9  N=   595.1  dN/dS=  0.2094  dN = 0.0000  dS = 0.0000
+
+
+11 (WP_012625907.1_2172) ... 9 (WP_012625907.1_5146)
+lnL =-1089.509363
+  0.00001  1.80904  0.21935
+
+t= 0.0000  S=   209.5  N=   588.5  dN/dS=  0.2194  dN = 0.0000  dS = 0.0000
+
+
+11 (WP_012625907.1_2172) ... 10 (WP_012625907.1_1916)
+lnL =-1089.509351
+  0.00001  1.99224  0.13169
+
+t= 0.0000  S=   212.3  N=   585.7  dN/dS=  0.1317  dN = 0.0000  dS = 0.0000
+
+
+12 (WP_012625907.1_3647) ... 1 (WP_012625907.1_4616)
+lnL =-1089.509321
+  0.00001  2.19731  0.00100
+
+t= 0.0000  S=   215.1  N=   582.9  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+12 (WP_012625907.1_3647) ... 2 (WP_012625907.1_1834)
+lnL =-1089.509265
+  0.00001  0.75884  0.00100
+
+t= 0.0000  S=   186.4  N=   611.6  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+12 (WP_012625907.1_3647) ... 3 (WP_012625907.1_1675)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+12 (WP_012625907.1_3647) ... 4 (WP_012625907.1_208)
+lnL =-1089.509289
+  0.00001  1.17643  0.00100
+
+t= 0.0000  S=   197.4  N=   600.6  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+12 (WP_012625907.1_3647) ... 5 (WP_012625907.1_402)
+lnL =-1089.509310
+  0.00001  1.74582  0.00100
+
+t= 0.0000  S=   208.5  N=   589.5  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+12 (WP_012625907.1_3647) ... 6 (WP_012625907.1_1106)
+lnL =-1089.509339
+  0.00001  1.90080  0.08609
+
+t= 0.0000  S=   210.9  N=   587.1  dN/dS=  0.0861  dN = 0.0000  dS = 0.0000
+
+
+12 (WP_012625907.1_3647) ... 7 (WP_012625907.1_853)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+12 (WP_012625907.1_3647) ... 8 (WP_012625907.1_5046)
+lnL =-1089.509321
+  0.00001  1.21703  0.07582
+
+t= 0.0000  S=   198.3  N=   599.7  dN/dS=  0.0758  dN = 0.0000  dS = 0.0000
+
+
+12 (WP_012625907.1_3647) ... 9 (WP_012625907.1_5146)
+lnL =-1089.509308
+  0.00001  1.61134  0.00671
+
+t= 0.0000  S=   206.2  N=   591.8  dN/dS=  0.0067  dN = 0.0000  dS = 0.0000
+
+
+12 (WP_012625907.1_3647) ... 10 (WP_012625907.1_1916)
+lnL =-1089.509342
+  0.00001  1.79880  0.10603
+
+t= 0.0000  S=   209.3  N=   588.7  dN/dS=  0.1060  dN = 0.0000  dS = 0.0000
+
+
+12 (WP_012625907.1_3647) ... 11 (WP_012625907.1_2172)
+lnL =-1089.509315
+  0.00001  1.92878  0.00100
+
+t= 0.0000  S=   211.3  N=   586.7  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+13 (WP_012625907.1_4831) ... 1 (WP_012625907.1_4616)
+lnL =-1089.509347
+  0.00001  2.10785  0.10512
+
+t= 0.0000  S=   213.9  N=   584.1  dN/dS=  0.1051  dN = 0.0000  dS = 0.0000
+
+
+13 (WP_012625907.1_4831) ... 2 (WP_012625907.1_1834)
+lnL =-1089.509338
+  0.00001  2.11165  0.06503
+
+t= 0.0000  S=   213.9  N=   584.1  dN/dS=  0.0650  dN = 0.0000  dS = 0.0000
+
+
+13 (WP_012625907.1_4831) ... 3 (WP_012625907.1_1675)
+lnL =-1089.509352
+  0.00001  2.34787  0.11722
+
+t= 0.0000  S=   217.0  N=   581.0  dN/dS=  0.1172  dN = 0.0000  dS = 0.0000
+
+
+13 (WP_012625907.1_4831) ... 4 (WP_012625907.1_208)
+lnL =-1089.509351
+  0.00001  2.26345  0.11599
+
+t= 0.0000  S=   215.9  N=   582.1  dN/dS=  0.1160  dN = 0.0000  dS = 0.0000
+
+
+13 (WP_012625907.1_4831) ... 5 (WP_012625907.1_402)
+lnL =-1089.509352
+  0.00001  2.42911  0.11489
+
+t= 0.0000  S=   217.9  N=   580.1  dN/dS=  0.1149  dN = 0.0000  dS = 0.0000
+
+
+13 (WP_012625907.1_4831) ... 6 (WP_012625907.1_1106)
+lnL =-1089.509347
+  0.00001  2.34463  0.09223
+
+t= 0.0000  S=   216.9  N=   581.1  dN/dS=  0.0922  dN = 0.0000  dS = 0.0000
+
+
+13 (WP_012625907.1_4831) ... 7 (WP_012625907.1_853)
+lnL =-1089.509355
+  0.00001  2.39202  0.13190
+
+t= 0.0000  S=   217.5  N=   580.5  dN/dS=  0.1319  dN = 0.0000  dS = 0.0000
+
+
+13 (WP_012625907.1_4831) ... 8 (WP_012625907.1_5046)
+lnL =-1089.509349
+  0.00001  2.23600  0.10960
+
+t= 0.0000  S=   215.6  N=   582.4  dN/dS=  0.1096  dN = 0.0000  dS = 0.0000
+
+
+13 (WP_012625907.1_4831) ... 9 (WP_012625907.1_5146)
+lnL =-1089.509349
+  0.00001  2.44242  0.09514
+
+t= 0.0000  S=   218.1  N=   579.9  dN/dS=  0.0951  dN = 0.0000  dS = 0.0000
+
+
+13 (WP_012625907.1_4831) ... 10 (WP_012625907.1_1916)
+lnL =-1089.509315
+  0.00001  1.92397  0.00100
+
+t= 0.0000  S=   211.2  N=   586.8  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+13 (WP_012625907.1_4831) ... 11 (WP_012625907.1_2172)
+lnL =-1089.509316
+  0.00001  1.96061  0.00100
+
+t= 0.0000  S=   211.8  N=   586.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+13 (WP_012625907.1_4831) ... 12 (WP_012625907.1_3647)
+lnL =-1089.509339
+  0.00001  1.99282  0.07769
+
+t= 0.0000  S=   212.3  N=   585.7  dN/dS=  0.0777  dN = 0.0000  dS = 0.0000
+
+
+14 (WP_012625907.1_2688) ... 1 (WP_012625907.1_4616)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+14 (WP_012625907.1_2688) ... 2 (WP_012625907.1_1834)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+14 (WP_012625907.1_2688) ... 3 (WP_012625907.1_1675)
+lnL =-1089.509264
+  0.00001  0.74824  0.00100
+
+t= 0.0000  S=   186.1  N=   611.9  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+14 (WP_012625907.1_2688) ... 4 (WP_012625907.1_208)
+lnL =-1089.509329
+  0.00001  0.92187  0.12466
+
+t= 0.0000  S=   191.1  N=   606.9  dN/dS=  0.1247  dN = 0.0000  dS = 0.0000
+
+
+14 (WP_012625907.1_2688) ... 5 (WP_012625907.1_402)
+lnL =-1089.509347
+  0.00001  1.61810  0.14099
+
+t= 0.0000  S=   206.3  N=   591.7  dN/dS=  0.1410  dN = 0.0000  dS = 0.0000
+
+
+14 (WP_012625907.1_2688) ... 6 (WP_012625907.1_1106)
+lnL =-1089.509359
+  0.00001  1.79036  0.19092
+
+t= 0.0000  S=   209.2  N=   588.8  dN/dS=  0.1909  dN = 0.0000  dS = 0.0000
+
+
+14 (WP_012625907.1_2688) ... 7 (WP_012625907.1_853)
+lnL =-1089.509313
+  0.00001  1.84311  0.00100
+
+t= 0.0000  S=   210.0  N=   588.0  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+14 (WP_012625907.1_2688) ... 8 (WP_012625907.1_5046)
+lnL =-1089.509333
+  0.00001  2.23085  0.03745
+
+t= 0.0000  S=   215.5  N=   582.5  dN/dS=  0.0375  dN = 0.0000  dS = 0.0000
+
+
+14 (WP_012625907.1_2688) ... 9 (WP_012625907.1_5146)
+lnL =-1089.509234
+  0.00001  0.40000  0.00100
+
+t= 0.0000  S=   173.8  N=   624.2  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+14 (WP_012625907.1_2688) ... 10 (WP_012625907.1_1916)
+lnL =-1089.509331
+  0.00001  1.06197  0.11967
+
+t= 0.0000  S=   194.7  N=   603.3  dN/dS=  0.1197  dN = 0.0000  dS = 0.0000
+
+
+14 (WP_012625907.1_2688) ... 11 (WP_012625907.1_2172)
+lnL =-1089.509357
+  0.00001  1.60236  0.19252
+
+t= 0.0000  S=   206.0  N=   592.0  dN/dS=  0.1925  dN = 0.0000  dS = 0.0000
+
+
+14 (WP_012625907.1_2688) ... 12 (WP_012625907.1_3647)
+lnL =-1089.509304
+  0.00001  1.54923  0.00100
+
+t= 0.0000  S=   205.1  N=   592.9  dN/dS=  0.0010  dN = 0.0000  dS = 0.0000
+
+
+14 (WP_012625907.1_2688) ... 13 (WP_012625907.1_4831)
+lnL =-1089.509312
+  0.00001  1.72769  0.00886
+
+t= 0.0000  S=   208.2  N=   589.8  dN/dS=  0.0089  dN = 0.0000  dS = 0.0000
