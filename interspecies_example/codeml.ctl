@@ -1,5 +1,5 @@
-      seqfile = MNBX01000142.1_2.codonalign.fa * sequence data filename
-      outfile = mlcTree_MNBX01000142.1_2           * main result file name
+      seqfile = MNBX01000583.1_4.codonalign.fa * sequence data filename
+      outfile = mlcTree_MNBX01000583.1_4           * main result file name
 
         noisy = 0  * 0,1,2,3,9: how much rubbish on the screen
       verbose = 1  * 0: concise; 1: detailed, 2: too much
