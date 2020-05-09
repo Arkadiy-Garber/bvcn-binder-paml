@@ -47,7 +47,7 @@ Run codeml after checking out the input/output codeml.ctl file
 
     codeml codeml.ctl
 
-
+## Walkthrough (PseudoHunter)
 
 Print the PseudoHunter help menu
 
@@ -59,7 +59,7 @@ Run program on the test dataset
     cd mycobacterium/
     PseudoHunter4.py -q Mycobacterium_leprae-subset.fna -r Mycobacterium_tuberculosis_H37Rv.fna -ctl ../codeml-2.ctl -out pseudohunter_out
 
-
+## Walkthrough (ParaHunter)
 
 Print the ParaHunter help menu
 
