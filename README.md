@@ -7,79 +7,67 @@ Initially forked from [here](https://github.com/binder-examples/conda). Thank yo
 Part of the [Bioinformatics Virtual Coordination Network](https://biovcnet.github.io/) :)
 
 
-## Walkthrough
+## Walkthrough (interspecies example with two homologous sequences)
 
-Enter the MagicCave
+Enter the first direcotry
 
-    cd MagicCave/
+    cd interspecies_example//
 
-print the MagicLamp help menu
+Align the FASTA amino acid file
 
-    MagicLamp.py help
+    muscle -in MNBX01000583.1_4.faa -out MNBX01000583.1_4.fa
 
-print WspGenie help menu
+Make a codon alignment from the peptide alignment and nucleotide sequence
 
-    MagicLamp.py WspGenie -h
+    pal2nal.pl MNBX01000583.1_4.fa MNBX01000583.1_4.ffn -output fasta > MNBX01000583.1_4.codonalign.fa
 
-run WspGenie on test dataset
+Check that the correct input/output files are in the codeml.ctl file
 
-    MagicLamp.py WspGenie -bin_dir test_dataset/ -bin_ext fna -out wspgenie_out
+    less codeml.ctl
+
+Run codeml
+
+    codeml codeml.ctl
+
+## Walkthrough (intraspecies example with three gene paralogs from one genome)
+
+Enter the second directory
+
+    cd intraspecies_example/
+
+Align the FASTA amino acid file
+
+    muscle -in NC_009928.1_232.faa -out NC_009928.1_232.fa
+
+Make a codon alignment from the peptide alignment and nucleotide sequence
+
+    pal2nal.pl NC_009928.1_232.fa NC_009928.1_232.ffn -output fasta > NC_009928.1_232.codonalign.fa
+
+Run codeml after checking out the input/output codeml.ctl file
+
+    codeml codeml.ctl
 
 
-go into the wspgenie output directory and check out the output file
 
-    cd wspgenie_out/
-    less -S wspgenie-summary.csv
+Print the PseudoHunter help menu
 
-check out the gene predictions
+    PseudoHunter -h
 
-    cd ORF_calls/
-    cd ../../
+Run program on the test dataset
+    
+    cd PseudoHunter/
+    cd mycobacterium/
+    PseudoHunter4.py -q Mycobacterium_leprae-subset.fna -r Mycobacterium_tuberculosis_H37Rv.fna -ctl ../codeml-2.ctl -out pseudohunter_out
 
-mv ORF calls to the main directory
 
-    mv wspgenie_out/ORF_calls/ ./
 
-print LithoGenie help menu
+Print the ParaHunter help menu
 
-    MagicLamp.py LithoGenie -h
+    Parahunter -h
 
-run LithoGenie on ORF calls
+Run program on the test dataset
 
-    MagicLamp.py LithoGenie -bin_dir ORF_calls/ -bin_ext faa --orfs -out lithogenie_out
+    cd ParaHunter/
+    cd cyanothece/
+    ParaHunter.sh -a CyanothecePCC7425.faa -n CyanothecePCC7425.ffn -l ../codeml-2.ctl
 
-check out the output
-
-    cd lithogenie_out/
-    less -S lithogenie-summary.csv
-    less lithogenie.ALL.heatmap.csv
-    cd ../
-
-re-run LithoGenie to create a .heatmap.csv for an element-of-interest
-
-    MagicLamp.py LithoGenie -bin_dir ORF_calls/ -bin_ext faa --orfs -out lithogenie_out --skip -cat sulfur
-    # answer 'y' to the question
-    MagicLamp.py LithoGenie -bin_dir ORF_calls/ -bin_ext faa --orfs -out lithogenie_out --skip -cat iron
-
-check out the new results
-
-    cd lithogenie_out/
-    less lithogenie.sulfur.heatmap.csv
-    less lithogenie.iron.heatmap.csv
-
-print the HmmGenie help menu
-
-    MagicLamp.py HmmGenie -h
-
-run HmmGenie with a set of HMMs for gas vesicle formation
-
-    MagicLamp.py HmmGenie -hmm_dir MagicCave/hmms/gas/ -hmm_ext hmm -bin_dir test_dataset/ -bin_ext fna -out gas_out
-
-check out the results and re-run HmmGenie with more stringent parameters
-
-    MagicLamp.py HmmGenie -hmm_dir MagicCave/hmms/gas/ -hmm_ext hmm -bin_dir test_dataset/ -bin_ext fna -out gas_out -clu 5
-
-check out the results
-
-    cd gas_out/
-    less -S genie-summary.csv
