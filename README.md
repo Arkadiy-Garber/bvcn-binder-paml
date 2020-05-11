@@ -51,7 +51,7 @@ Run codeml after checking out the input/output codeml.ctl file
 
 Print the PseudoHunter help menu
 
-    PseudoHunter -h
+    PseudoHunter.py -h
 
 Run program on the test dataset
     
