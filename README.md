@@ -63,7 +63,7 @@ Run program on the test dataset
 
 Print the ParaHunter help menu
 
-    Parahunter -h
+    Parahunter.sh -h
 
 Run program on the test dataset
 
